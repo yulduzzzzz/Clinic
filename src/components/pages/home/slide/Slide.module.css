@@ -1,0 +1,77 @@
+.box {
+    height: 350px;
+    display: flex;
+    justify-content: space-between;
+    background-image: url(../../../../assets/fonts/backhome.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-bottom: 50px;
+}
+
+.img {
+    width: 550px;
+    height: 350px;
+}
+
+.boxtit {
+    padding: 40px;
+}
+
+.tit {
+    width: 480px;
+    font-family: Manrope;
+    font-size: 48px;
+    font-weight: 500;
+    line-height: 52.8px;
+    color: #202020;
+    margin-bottom: 20px;
+}
+
+.text {
+    width: 380px;
+    font-family: Manrope;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 26.4px;
+    color: #7A7687;
+    margin-bottom: 40px;
+}
+
+.btn {
+    width: 170px;
+    height: 41px;
+    border: 0;
+    outline: none;
+    border-radius: 50px;
+    background: #088269;
+    font-family: Manrope;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.link {
+    text-decoration: none;
+    color: #F8F7F3;
+}
+
+.btnone {
+    width: 126px;
+    height: 41px;
+    font-family: Manrope;
+    font-size: 14px;
+    font-weight: 600;
+    outline: none;
+    border: 0;
+    border-radius: 50px;
+    border: 1px solid #D5D1E1
+}
+
+.linkone {
+    text-decoration: none;
+    color: #088269;
+}
+
+.btnbox {
+    display: flex;
+    justify-content: space-between;
+}

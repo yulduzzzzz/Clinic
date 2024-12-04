@@ -1,0 +1,86 @@
+.SecFive {
+    height: 686px;
+    background-image: url(../../../../assets/images/fondown.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding: 70px 0px;
+}
+
+.boxtitle {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 80px;
+}
+
+.tit {
+    color: #202020;
+    font-size: 30px;
+    font-weight: 500;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.title {
+    max-width: 630px;
+    color: #202020;
+    line-height: 55.8px;
+    font-size: 40px;
+    font-weight: 400;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.title::first-line {
+    color: #088269;
+}
+
+.boxbig {
+    /* width: 322px; */
+    height: 280px;
+    border-radius: 5px;
+    background: #E1DFE7;
+    border: 1px solid #E1DFE7
+}
+
+.box {
+    /* width: 321px; */
+    height: 190px;
+    background: #FFFFFF;
+    padding: 40px 0px;
+    border-radius: 5px;
+    border: 1px solid #c5c5c9
+}
+
+.boxh {
+    /* width: 320px; */
+    height: 190px;
+    background: #FFFFFF;
+    padding: 10px 0px;
+    border-radius: 5px;
+    border: 1px solid #c5c5c9
+}
+
+.img {
+    display: block;
+    margin: 0 auto;
+}
+
+.text {
+    width: 250px;
+    color: #202020;
+    font-weight: 500;
+    font-size: 16px;
+    padding: 20px 15px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.son {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.o {
+    padding-top: 50px;
+}
+
+.d {
+    padding: 0px 40px;
+}

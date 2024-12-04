@@ -1,0 +1,904 @@
+.box {
+    padding: 20px 0px;
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.sel {
+    background-color: whitesmoke;
+    border: 0;
+    outline: none;
+}
+
+.li {
+    font-family: Manrope;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19.12px;
+    list-style-type: none;
+}
+
+.link {
+    text-decoration: none;
+    color: #202020;
+}
+
+.title {
+    padding-top: 50px;
+    color: #202020;
+    font-family: Manrope;
+    font-size: 48px;
+    font-weight: 500;
+    line-height: 52.8px;
+    margin-bottom: 35px;
+}
+
+.boxmap {
+    height: 400px;
+    background-image: url(../../../../src/assets/images/map.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    border-radius: 10px;
+    padding: 30px;
+    margin-bottom: 30px;
+}
+
+.btn {
+    width: 155px;
+    height: 41px;
+    border: 0;
+    outline: none;
+    border-radius: 50px;
+    background: #088269;
+}
+
+.linktwo {
+    text-decoration: none;
+    color: #F8F7F3;
+}
+
+.btnbox {
+    display: flex;
+    justify-content: end;
+    padding: 310px 0px;
+}
+
+.textbox {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 100px;
+}
+
+.text {
+    width: 650px;
+    color: #202020;
+    font-family: Manrope;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 25.4px;
+}
+
+.textone {
+    font-family: Manrope;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 36px;
+    margin-bottom: 20px;
+    color: #202020;
+}
+
+.boxone {
+    width: 270px;
+    height: 300px;
+    border-radius: 10px;
+    padding: 80px 0px;
+    border: 1px solid #E5E2EE
+}
+
+.img {
+    margin-bottom: 15px;
+}
+
+.imgg {
+    padding-top: 5px;
+    margin-bottom: 20px;
+}
+
+.boxo {
+    display: block;
+    text-align: center;
+}
+
+.texttwo {
+    display: block;
+    margin: 0 auto;
+    width: 110px;
+    font-family: Manrope;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 22.4px;
+    color: #202020;
+}
+
+.texttwoo {
+    display: block;
+    margin: 0 auto;
+    width: 155px;
+    font-family: Manrope;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 22.4px;
+    color: #202020;
+}
+
+.big {
+    display: flex;
+    justify-content: space-between;
+}
+
+.imggg {
+    margin-bottom: 20px;
+}
+
+.texttwot {
+    display: block;
+    margin: 0 auto;
+    width: 155px;
+    font-family: Manrope;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 22.4px;
+    color: #202020;
+}
+
+.imgj {
+    padding-top: 10px;
+    margin-bottom: 15px;
+}
+
+.texttwooo {
+    display: block;
+    margin: 0 auto;
+    width: 155px;
+    font-family: Manrope;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 22.4px;
+    color: #202020;
+}
+
+.btnone {
+    width: 250px;
+    height: 41px;
+    border-radius: 50px;
+    background: #088269;
+    border: 0;
+    outline: none;
+}
+
+.linkthree {
+    text-decoration: none;
+    color: #F8F7F3;
+    font-family: Manrope;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 19.12px;
+}
+
+.big {
+    margin-bottom: 30px;
+}
+
+.boxbtnn {
+    display: flex;
+    justify-content: end;
+    margin-bottom: 100px;
+}
+
+.titleft {
+    width: 300px;
+    font-family: Manrope;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 40px;
+    color: #202020;
+    margin-bottom: 20px;
+}
+
+.teleft {
+    width: 350px;
+    font-family: Manrope;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 28.4px;
+}
+
+.boxbig {
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 70px;
+    padding: 0px 0px;
+}
+
+.lineone {
+    width: 50px;
+    width: 550px;
+    height: 1px;
+    margin-bottom: 20px;
+    background: #D5D1E1;
+}
+
+.tex {
+    font-family: Manrope;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 24.59px;
+    color: #202020;
+    margin-bottom: 20px;
+}
+
+.titt {
+    width: 600px;
+    font-family: Manrope;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 22.4px;
+    margin-bottom: 15px;
+    color: #7A7687;
+}
+
+.texone {
+    font-family: Manrope;
+    font-size: 18px;
+    color: #202020;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+
+.tetwo {
+    width: 600px;
+    font-family: Manrope;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 22.4px;
+    color: #7A7687;
+    margin-bottom: 15px;
+}
+
+.tethree {
+    font-family: Manrope;
+    font-size: 18px;
+    color: #202020;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+
+.t {
+    width: 600px;
+    font-family: Manrope;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 22.4px;
+    color: #7A7687;
+    margin-bottom: 15px;
+}
+
+.boxgreen {
+    height: 670px;
+    display: flex;
+    justify-content: space-evenly;
+    background: #088269;
+    padding: 100px 0px;
+    margin-bottom: 100px;
+}
+
+.tit {
+    font-family: Manrope;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 36px;
+    color: #F8F7F3;
+}
+
+.linefive {
+    width: 600px;
+    height: 1px;
+    margin-bottom: 15px;
+    border: 1px solid #E1DFE7
+}
+
+.titin {
+    font-family: Manrope;
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 15px;
+    color: #F8F7F3;
+}
+
+.texin {
+    width: 600px;
+    font-family: Manrope;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 22.4px;
+    margin-bottom: 20px;
+    color: #F8F7F3;
+}
+
+.litwo {
+    font-family: Manrope;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 19.12px;
+    margin-bottom: 15px;
+    list-style-type: none;
+}
+
+.linkk {
+    text-decoration: none;
+    color: #F8F7F3;
+}
+
+.linesix {
+    width: 600px;
+    height: 1px;
+    margin-bottom: 20px;
+    border: 1px solid #E1DFE7
+}
+
+.in {
+    font-family: Manrope;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 24.59px;
+    color: #F8F7F3;
+    margin-bottom: 15px;
+}
+
+.l {
+    display: flex;
+    justify-content: space-between;
+}
+
+.im {
+    width: 32px;
+    height: 32px;
+}
+
+.ll {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.maptit {
+    width: 600px;
+    font-family: Manrope;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 36px;
+    color: #202020;
+}
+
+.maptit::first-line {
+    color: #088269;
+}
+
+.mmbox {
+    /* width: 300px; */
+    height: 140px;
+    border-radius: 10px;
+    background: #FFFFFF;
+    padding: 30px;
+    border: 1px solid #E5E2EE
+}
+
+.contit {
+    font-family: Manrope;
+    font-size: 18px;
+    font-weight: 600;
+    color: #202020;
+    margin-bottom: 5px;
+}
+
+.linmap {
+    text-decoration: none;
+    color: #7A7687;
+}
+
+.limap {
+    list-style-type: none;
+    font-family: Manrope;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.pp {
+    width: 150px;
+    font-family: Manrope;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 28.4px;
+    color: #7A7687;
+}
+
+.mapin {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 0px 600px;
+    margin-bottom: 20px;
+}
+
+.inn {
+    padding-left: 350px;
+}
+
+.map {
+    width: 1880px;
+    height: 540px;
+    background-image: url(../../../../src/assets/images/maptwo.png);
+    background-repeat: no-repeat;
+    background-size: 70% 70%;
+}
+
+.btnmap {
+    width: 171px;
+    height: 41px;
+    border: 0;
+    border-radius: 30px;
+}
+
+.lmap {
+    text-decoration: none;
+    font-family: Manrope;
+    font-size: 10px;
+    font-weight: 500;
+    color: #202020;
+}
+
+.mm {
+    padding: 20px;
+}
+
+.mmm {
+    padding: 220px 1080px;
+}
+
+.btin {
+    width: 198px;
+    height: 41px;
+    border: 0;
+    border-radius: 50px;
+    background: #088269;
+}
+
+.inl {
+    text-decoration: none;
+    font-family: Manrope;
+    font-size: 14px;
+    font-weight: 600;
+    color: #F8F7F3;
+}
+
+.blue {
+    display: flex;
+    justify-content: space-evenly;
+    height: 540px;
+    padding: 100px 0px;
+    background: #E5E4ED;
+}
+
+.titblue {
+    width: 380px;
+    font-family: Manrope;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 40px;
+    margin-bottom: 20px;
+}
+
+.titblu {
+    font-family: Manrope;
+    font-size: 18px;
+    font-weight: 600;
+    color: #202020;
+}
+
+.bluetext {
+    width: 500px;
+    font-family: Manrope;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 22.4px;
+    color: #202020;
+}
+
+.line {
+    width: 600px;
+    height: 1px;
+    border: 1px solid #D5D1E1
+}
+
+.ins {
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.bbl {
+    width: 600px;
+    font-family: Manrope;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 22.4px;
+    color: #202020;
+}
+
+.white {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 50px 30px;
+}
+
+.whitetit {
+    font-family: Manrope;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 36px;
+    color: #202020;
+    margin-bottom: 20px;
+}
+
+.whitetext {
+    width: 530px;
+    font-family: Manrope;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 22.4px;
+    color: #202020;
+}
+
+.whitetext::first-line {
+    color: #088269;
+}
+
+.inbox {
+    width: 600px;
+    height: 480px;
+    border-radius: 10px;
+    padding: 50px 30px;
+    background: #FFFFFF;
+    border: 1px solid #E5E2EE
+}
+
+.inp {
+    padding: 0px 10px;
+    width: 540px;
+    height: 41px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    font-family: Manrope;
+    font-size: 14px;
+    font-weight: 400;
+    color: #7A7687;
+    outline: none;
+}
+
+.input {
+    width: 540px;
+    height: 110px;
+    font-family: Manrope;
+    font-size: 14px;
+    font-weight: 400;
+    border-radius: 10px;
+    color: #7A7687;
+    padding: 20px;
+    margin-bottom: 50px;
+}
+
+.btnn {
+    width: 134px;
+    height: 41px;
+    border: 0;
+    border-radius: 50px;
+    background: #088269;
+    font-family: Manrope;
+    font-size: 14px;
+    font-weight: 600;
+    color: #F8F7F3;
+}
+
+.bbtt {
+    display: flex;
+    justify-content: space-between;
+}
+
+.endtit {
+    width: 400px;
+    font-family: Manrope;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 20.39px;
+}
+
+.large {
+    /* width: 100%; */
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.sertitle {
+    font-family: Manrope;
+    font-size: 48px;
+    font-weight: 500;
+    color: #202020;
+    margin-bottom: 30px;
+}
+
+.largeone {
+    display: flex;
+    width: 545px;
+    height: 330px;
+    border-radius: 10px;
+    background: #FFFFFF;
+    border: 1px solid #E5E2EE
+}
+
+.larimg {
+    width: 220px;
+}
+
+.lartit {
+    font-family: Manrope;
+    font-size: 18px;
+    font-weight: 600;
+    color: #202020;
+    margin-bottom: 7px;
+}
+
+.lartitt {
+    font-family: Manrope;
+    font-size: 16px;
+    font-weight: 600;
+    color: #202020;
+    margin-bottom: 7px;
+}
+
+.lartittt {
+    font-family: Manrope;
+    font-size: 16px;
+    font-weight: 600;
+    color: #202020;
+    margin-bottom: 7px;
+}
+
+.lartext {
+    font-family: Manrope;
+    font-size: 12px;
+    font-weight: 400;
+    color: #7A7687;
+    margin-bottom: 7px;
+}
+
+.lartextone {
+    width: 280px;
+    font-family: Manrope;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 22.4px;
+    color: #7A7687;
+    margin-bottom: 50px;
+}
+
+.lartextoner {
+    width: 280px;
+    font-family: Manrope;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 22.4px;
+    color: #7A7687;
+    margin-bottom: 37px;
+}
+
+.lartextonee {
+    width: 320px;
+    font-family: Manrope;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 22.4px;
+    color: #7A7687;
+}
+
+.lartextoneee {
+    width: 320px;
+    font-family: Manrope;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 22.4px;
+    color: #7A7687;
+    margin-bottom: 72px;
+}
+
+.larbox {
+    padding: 25px;
+}
+
+.linklar {
+    color: #088269;
+    font-family: Manrope;
+    font-size: 14px;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.btnlar {
+    width: 123px;
+    height: 41px;
+    border: 0;
+    border-radius: 50px;
+    background-color: white;
+    border: 1px solid #D5D1E1
+}
+
+.titlarone {
+    font-family: Manrope;
+    font-size: 30px;
+    font-weight: 500;
+    margin-bottom: 20px;
+    color: #202020;
+}
+
+.textlaronee {
+    width: 290px;
+    font-family: Manrope;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 25.4px;
+    color: #202020;
+}
+
+.price {
+    font-family: Manrope;
+    font-size: 48px;
+    font-weight: 500;
+    color: #088269;
+}
+
+.one {
+    font-family: Manrope;
+    font-size: 16px;
+    font-weight: 500;
+    color: #202020;
+}
+
+.one {
+    font-family: Manrope;
+    font-size: 16px;
+    font-weight: 500;
+    color: #202020;
+}
+
+.largebig {
+    padding-top: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.lineee {
+    width: 500px;
+    height: 1px;
+    margin-left: 600px;
+    background: #D5D1E1;
+}
+
+.largebigone {
+    padding-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    margin-left: 510px;
+}
+
+.largebigonee {
+    padding-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    margin-left: 440px;
+}
+
+.midboxone {
+    padding-top: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.titmid {
+    width: 400px;
+    font-family: Manrope;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 40px;
+    color: #202020;
+}
+
+.titmid::first-line {
+    color: #088269;
+}
+
+.midins {
+    width: 53%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.insone {
+    display: flex;
+    justify-content: space-between;
+    width: 280px;
+    height: 74px;
+    border: 0;
+    border-radius: 10px;
+    background: #FFFFFF;
+    padding: 20px 15px;
+}
+
+.titinsonee {
+    font-family: Manrope;
+    font-size: 16px;
+    font-weight: 600;
+    color: #202020;
+}
+
+.btt {
+    width: 174px;
+    height: 41px;
+    border: 0;
+    border-radius: 50px;
+    background: #088269;
+}
+
+.lllll {
+    font-family: Manrope;
+    font-size: 14px;
+    font-weight: 600;
+    color: #F8F7F3;
+    text-decoration: none;
+}
+
+.bt {
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    margin-bottom: 100px;
+}
+
+.tisert {
+    width: 210px;
+    font-family: Manrope;
+    font-size: 30px;
+    font-weight: 500;
+    color: #202020;
+}
+
+.boxbox {
+    /* width: 180px; */
+    /* height: 280px; */
+    padding: px 10px;
+    border-radius: 10px;
+    background: #FFFFFF;
+    border: 1px solid #E5E2EE
+}
+
+.imn {
+    /* width: 150px; */
+    /* height: 250px; */
+}

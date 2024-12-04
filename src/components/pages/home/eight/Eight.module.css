@@ -1,0 +1,46 @@
+.Eight {
+    padding-top: 120px;
+}
+
+.tit {
+    width: 195px;
+    font-family: Manrope;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 40px;
+    color: #202020;
+}
+
+.box {
+    height: 490px;
+    border-radius: 10px;
+    border: 1px solid #E5E2EE
+}
+
+.boxtext {
+    padding: 10px 10px;
+}
+
+.date {
+    font-family: Manrope;
+    font-size: 12px;
+    font-weight: 400;
+    color: #7A7687;
+    margin-bottom: 8px;
+}
+
+.title {
+    font-family: Manrope;
+    font-size: 18px;
+    font-weight: 600;
+    color: #202020;
+    margin-bottom: 8px;
+}
+
+.text {
+    font-family: Manrope;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 22.4px;
+    color: #7A7687;
+}

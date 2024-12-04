@@ -1,0 +1,167 @@
+.Buy {
+    margin-bottom: 600px;
+}
+
+.box {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.sel {
+    font-family: Manrope;
+    font-size: 14px;
+    font-weight: 400;
+    color: #7A7687;
+    border: 0;
+    background-color: whitesmoke;
+}
+
+.list {
+    font-family: Manrope;
+    font-size: 14px;
+    font-weight: 400;
+    list-style-type: none;
+    color: #202020;
+}
+
+.link {
+    text-decoration: none;
+    color: #202020;
+}
+
+.selone {
+    width: 300px;
+    height: 52px;
+    font-family: Manrope;
+    font-size: 16px;
+    font-weight: 500;
+    color: #202020;
+    border-radius: 10px;
+    padding: 10px;
+    outline: none;
+    margin-bottom: 5px;
+    background-color: whitesmoke;
+    border: 1px solid #E5E2EE
+}
+
+.boxone {
+    width: 300px;
+    height: 370px;
+    padding: 5px 10px;
+    overflow-y: scroll;
+    border-radius: 10px;
+    border: 1px solid #E5E2EE
+}
+
+.seltwo {
+    width: 270px;
+    height: 52px;
+    border: 0;
+    outline: none;
+    font-family: Manrope;
+    font-size: 16px;
+    font-weight: 500;
+    color: #202020;
+    background-color: whitesmoke;
+    border-radius: 10px;
+}
+
+.boxtwo {
+    display: flex;
+    padding-top: 10px;
+}
+
+.textone {
+    font-family: Manrope;
+    font-size: 14px;
+    font-weight: 400;
+    color: #080808;
+    margin-left: 10px;
+}
+
+.check {
+    width: 20px;
+    height: 20px;
+    border-radius: 3px;
+    background-color: whitesmoke;
+    border: 1px solid #D5D1E1
+}
+
+.checkone {
+    width: 20px;
+    background: #088269;
+    height: 20px;
+    border-radius: 30px;
+    /* border: 1px solid #088269 */
+}
+
+.texttwo {
+    font-family: Manrope;
+    font-size: 14px;
+    font-weight: 400;
+    margin-left: 10px;
+    color: #202020;
+}
+
+.boxtwo {
+    margin-bottom: 10px;
+}
+
+.three {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.btnbox {
+    width: 27%;
+    padding-top: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.btn {
+    width: 110px;
+    height: 41px;
+    font-family: Manrope;
+    font-size: 14px;
+    font-weight: 600;
+    color: #202020;
+    border: 0;
+    border-radius: 50px;
+    border: 1px solid #D5D1E1
+}
+
+.btnone {
+    width: 150px;
+    height: 41px;
+    font-family: Manrope;
+    font-size: 14px;
+    font-weight: 600;
+    color: #F8F7F3;
+    border: 0;
+    border-radius: 50px;
+    background: #088269;
+}
+
+.inbox {
+    display: flex;
+    align-items: center;
+}
+
+.input {
+    width: 280px;
+    height: 40px;
+    border: 0;
+    padding: 5px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+.serr {
+    width: 30px;
+    height: 2.5rem;
+    background-color: white;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    padding: 8px;
+}

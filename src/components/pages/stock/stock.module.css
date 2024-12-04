@@ -1,0 +1,438 @@
+.box {
+    display: flex;
+    padding: 10px 0px;
+    margin-bottom: 25px;
+}
+
+.sel {
+    font-family: Manrope;
+    font-size: 14px;
+    font-weight: 400;
+    color: #7A7687;
+    border: 0;
+    background-color: whitesmoke;
+}
+
+.link {
+    font-family: Manrope;
+    font-size: 14px;
+    font-weight: 400;
+    color: #202020;
+    text-decoration: none;
+}
+
+.listone {
+    font-family: Manrope;
+    font-size: 16px;
+    font-weight: 500;
+    list-style-type: none;
+    margin-bottom: 10px;
+}
+
+.linkone {
+    color: #202020;
+    text-decoration: none;
+}
+
+.onebox {
+    width: 260px;
+    border-radius: 10px;
+    height: 250px;
+    padding: 15px 20px;
+    border: 1px solid #E5E2EE
+}
+
+.line {
+    width: 220px;
+    height: 1px;
+    margin-bottom: 20px;
+    background: #E5E2EE;
+}
+
+.selone {
+    width: 230px;
+    font-family: Manrope;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19.12px;
+    color: #202020;
+    border: 0;
+    outline: none;
+    margin-bottom: 17px;
+    background-color: whitesmoke;
+}
+
+.big {
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.boxtwo {
+    width: 270px;
+    height: 510px;
+    border-radius: 10px;
+    border: 1px solid #E5E2EE
+}
+
+.twoinside {
+    width: 267px;
+    height: 280px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background: #FFFFFF;
+    border: 1px solid #E5E2EE
+}
+
+.img {
+    display: block;
+    margin: 0 auto;
+}
+
+.btn {
+    width: 55px;
+    height: 27px;
+    border-radius: 76px;
+    background: #FFE095;
+    border: 1px solid #AD7B00
+}
+
+.up {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.insbox {
+    padding: 10px 15px;
+}
+
+.title {
+    width: 200px;
+    font-family: Manrope;
+    font-size: 18px;
+    font-weight: 700;
+    color: #202020;
+    line-height: 28.59px;
+    margin-bottom: 7px;
+}
+
+.art {
+    font-family: Manrope;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20.39px;
+    color: #7A7687;
+    margin-bottom: 3px;
+}
+
+.price {
+    padding-top: 10px;
+    font-family: Manrope;
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 15px;
+    color: #202020;
+}
+
+.btnthree {
+    width: 230px;
+    height: 41px;
+    border: 0;
+    border-radius: 50px;
+    font-family: Manrope;
+    font-size: 14px;
+    font-weight: 600;
+    border: 1px solid #D5D1E1
+}
+
+.linkthree {
+    text-decoration: none;
+    color: #088269;
+}
+
+.boxthree {
+    width: 270px;
+    height: 510px;
+    border-radius: 10px;
+    border: 1px solid #E5E2EE
+}
+
+.threeinside {
+    width: 267px;
+    height: 280px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background: #FFFFFF;
+    border: 1px solid #E5E2EE
+}
+
+.upone {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.btnone {
+    width: 55px;
+    height: 27px;
+    border: 0;
+    border-radius: 76px;
+    background: #FFE095;
+    border: 1px solid #AD7B00
+}
+
+.imgtwo {
+    width: 240px;
+    height: 200px;
+    display: block;
+    margin: 0 auto;
+}
+
+.bigtwo {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+
+.boxtwotwo {
+    width: 260px;
+}
+
+.boo {
+    margin-bottom: 50px;
+}
+
+.tit {
+    font-family: Manrope;
+    font-size: 30px;
+    font-weight: 500;
+    color: #202020;
+    margin-bottom: 20px;
+}
+
+.boxin {
+    border-radius: 10px;
+    border: 1px solid #E5E2EE
+}
+
+.titowl {
+    font-family: Manrope;
+    font-size: 16px;
+    font-weight: 500;
+    color: #202020;
+    padding: 20px 20px;
+}
+
+.b {
+    margin-bottom: 100px;
+}
+
+.btnboxx {
+    display: flex;
+    justify-content: end;
+}
+
+.btnfour {
+    width: 241px;
+    height: 41px;
+    border-radius: 50px;
+    font-family: Manrope;
+    font-size: 14px;
+    font-weight: 600;
+    border: 0;
+    border: 1px solid #D5D1E1
+}
+
+.kinkkk {
+    color: #088269;
+    text-decoration: none;
+}
+
+.btnfou {
+    width: 216px;
+    height: 41px;
+    background: #088269;
+    font-family: Manrope;
+    font-size: 14px;
+    border-radius: 50px;
+    border: 0;
+    font-weight: 600;
+}
+
+.kinkk {
+    color: #F8F7F3;
+    text-decoration: none;
+}
+
+.titend {
+    font-family: Manrope;
+    font-size: 18px;
+    font-weight: 600;
+    color: #202020;
+    margin-bottom: 20px;
+}
+
+.lineoneone {
+    width: 1140px;
+    height: 1px;
+    margin-bottom: 25px;
+    background: #E5E2EE;
+}
+
+.linerr {
+    width: 1140px;
+    height: 1px;
+    margin-bottom: 20px;
+    background: #E5E2EE;
+}
+
+.boxfour {
+    margin-bottom: 100px;
+}
+
+.titins {
+    font-family: Manrope;
+    font-size: 14px;
+    font-weight: 600;
+    color: #7A7687;
+}
+
+.pricetit {
+    font-family: Manrope;
+    font-size: 14px;
+    font-weight: 600;
+    color: #202020;
+}
+
+.startbox {
+    width: 40%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.inbig {
+    width: 25%;
+}
+
+.bigins {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.insone {
+    width: 25%;
+}
+
+.intext {
+    font-family: Manrope;
+    font-size: 14px;
+    font-weight: 600;
+    color: #202020;
+}
+
+.biginstwo {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.instwo {
+    width: 25%;
+}
+
+.boxinstwo {
+    width: 25%;
+}
+
+.biginsthree {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.boxinsthree {
+    width: 22%;
+}
+
+.insthree {
+    width: 22%;
+}
+
+.boxinsthreee {
+    width: 21%;
+}
+
+.boxinsthreeee {
+    width: 25%;
+}
+
+.biginsfour {
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.boxinsfour {
+    width: 17%;
+}
+
+.boxinsfourfour {
+    width: 10%;
+}
+
+.boxinfourr {}
+
+.biginsfive {
+    width: 78%;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5px;
+}
+
+.boxinsfive {
+    width: 5%;
+}
+
+.btnn {
+    width: 189px;
+    border: 0;
+    border-radius: 50px;
+    height: 41px;
+    font-family: Manrope;
+    font-size: 14px;
+    font-weight: 600;
+    border: 1px solid #D5D1E1
+}
+
+.linklink {
+    text-decoration: none;
+    color: #088269;
+}
+
+.btnnn {
+    width: 126px;
+    height: 41px;
+    border: 0;
+    border-radius: 50px;
+    background: #088269;
+}
+
+.linklinkk {
+    text-decoration: none;
+    font-family: Manrope;
+    font-size: 14px;
+    font-weight: 600;
+    color: #F8F7F3;
+}
+
+.btnbtnbtn {
+    display: flex;
+    justify-content: end;
+}
